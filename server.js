@@ -61,3 +61,5 @@ db.on('open', function () {
         server.listen(8080);
     });
 });
+
+console.log("Complete");
